@@ -28,5 +28,3 @@ function accessElementInArray(array, index) {
   var myArray = [1,2,3]
   return myArray[2]
 }
-
-function 
