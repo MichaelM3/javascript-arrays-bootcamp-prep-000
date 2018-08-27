@@ -25,11 +25,11 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
 function accessElementInArray(array, index) {
-  var myArray = [1,2,3]
+  var myArray = [1, 2, 3]
   return myArray[2]
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
-  var myArray = [1,2,3]
+  var myArray = [1, 2, 3]
   return myArray.shift()
 }
