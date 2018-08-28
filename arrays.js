@@ -10,8 +10,6 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return list.unshift(extra)
 }
 
-
-
 function addElementToEndOfArray(array, element) {
   var myArray = [1]
   extraArray = [...myArray, 'foo']
