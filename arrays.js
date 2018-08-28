@@ -52,3 +52,5 @@ function removeElementFromEndOfArray(array) {
   extraArray = myArray.slice(0, myArray.length -1)
   return extraArray
 }
+
+function 
