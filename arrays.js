@@ -40,3 +40,5 @@ function removeElementFromBeginningOfArray(array) {
   var extraArray = myArray.slice(1)
   return extraArray
 }
+
+function 
